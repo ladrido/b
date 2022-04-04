@@ -1,5 +1,4 @@
 chapter 3
-
 #hyperledger fabric architecture and components
 
 ##hyperledger fabric overview
